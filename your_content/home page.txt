@@ -23,13 +23,7 @@
     </div>
 
     <div class="right-column">
-        <p>Bunny vs monkey: distress is an au I do not own any of the characters in this storie</p>
-
-        <p>You can change what's on this page by editing the file found at <code>/your_content/home page.txt</code>.
-            I've even included comments in that file to help you out, if you're new to HTML.</p>
-
-        <p>You'll probably want to have links like these to your <a href="comic/001/#comic-page">first</a> and
-            <a href="latest/#comic-page">last</a> comic pages on your homepage. Or you can use buttons like those below!</p>
+        <p>Bunny vs monkey: distress is an au, I do not own any of the characters in this story</p>
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
         <a class="button" href="comic/001/#comic-page">First Page</a>
