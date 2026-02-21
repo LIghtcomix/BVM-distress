@@ -39,4 +39,4 @@
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
-<h2>Bunny vs monkey are owned by jamie smart and the phoinex comic</h2>
+<h2>Bunny vs monkey are owned by jamie smart and the phoenix comic</h2>

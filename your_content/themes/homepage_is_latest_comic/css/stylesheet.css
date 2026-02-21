@@ -65,7 +65,7 @@ a.navigation-button-disabled {
 
 /* Buttons: turn any link into a button by adding class="button" within the <a> tag */
 .button {
-    background-color: #2E9BC7;  /* Color of button hyperlinks */
+    background-color: #000405;  /* Color of button hyperlinks */
     color: white;  /* Color of the words in button hyperlinks */
 }
 
