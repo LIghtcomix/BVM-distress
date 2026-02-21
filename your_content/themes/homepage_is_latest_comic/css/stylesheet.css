@@ -37,7 +37,7 @@ a {
 
 /* Top navigation links bar */
 #links-bar {
-    background-color: #000405;  /* The background color of your links bar */
+    background-color: #eae247;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -65,21 +65,21 @@ a.navigation-button-disabled {
 
 /* Buttons: turn any link into a button by adding class="button" within the <a> tag */
 .button {
-    background-color: #000405;  /* Color of button hyperlinks */
+    background-color: #eae247;  /* Color of button hyperlinks */
     color: white;  /* Color of the words in button hyperlinks */
 }
 
 .button:hover {
-    background-color: #62C5E8;  /* Color of button hyperlinks when the mouse hovers over it */
+    background-color: #38712f;  /* Color of button hyperlinks when the mouse hovers over it */
     color: white;    /* Color of the words in button hyperlinks when the mouse hovers over it */
 }
 
 /* The blue background with the dotted borders that shows up on most pages. */
 #blurb {
-    background-color: #F6FBFE;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    background-color: #eae247;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
     width: 75%;  /* The maximum width of the blurb box. */
-    border-left: 3px dotted #62C5E8;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
-    border-right: 3px dotted #62C5E8; /* You can also just delete these two lines if you don't want a dotted border on the blurb box */
+    border-left: 3px dotted #38712f;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 3px dotted #38712f; /* You can also just delete these two lines if you don't want a dotted border on the blurb box */
 }
 
 /* This is just some code to make monospaced text a little more readable */
